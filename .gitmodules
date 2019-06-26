@@ -1,0 +1,9 @@
+[submodule "ceres_ros"]
+	path = ceres_ros
+	url = https://github.com/cart0909/ceres_ros
+[submodule "gtsam_ros"]
+	path = gtsam_ros
+	url = https://github.com/cart0909/gtsam_ros
+[submodule "catkin_simple"]
+	path = catkin_simple
+	url = https://github.com/catkin/catkin_simple
